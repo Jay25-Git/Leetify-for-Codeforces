@@ -6,13 +6,16 @@ This repo isn't the extension itself — it's an unofficial page to help more pe
 
 ## Before / After
 
-**Stock Codeforces UI:**
-
-<img width="1917" height="1090" alt="Codeforces problem page in the default UI" src="https://github.com/user-attachments/assets/a30cf0e8-9202-4cc5-a3e2-8c9474899677" />
-
-**Same problem, with Leetify enabled:**
-
-<img width="1918" height="1088" alt="Same Codeforces problem reworked into Leetify's split-pane workspace" src="https://github.com/user-attachments/assets/8e0182e1-f017-40eb-ab24-239cb51dee82" />
+<table>
+<tr>
+<th>Stock Codeforces UI</th>
+<th>With Leetify Enabled</th>
+</tr>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/a30cf0e8-9202-4cc5-a3e2-8c9474899677" alt="Codeforces problem page in the default UI" width="480" /></td>
+<td><img src="https://github.com/user-attachments/assets/8e0182e1-f017-40eb-ab24-239cb51dee82" alt="Same Codeforces problem reworked into Leetify's split-pane workspace" width="480" /></td>
+</tr>
+</table>
 
 One toggle turns the default page into a split-pane workspace with a VS Code–style editor, notes, and analytics built in.
 
