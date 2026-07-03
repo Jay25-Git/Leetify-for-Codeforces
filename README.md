@@ -60,6 +60,10 @@ This repo is just a signal-boost, so contributions are light-touch:
 - Spotted outdated info (new version, changed features, broken links)? Open an issue or PR.
 - Know of other solid Codeforces UX extensions? Feel free to add a "Related Tools" section.
 
+## Support This Project
+
+If Leetify made your Codeforces practice smoother, consider starring ⭐ this repo — it helps more competitive programmers discover it. Forks and shares are welcome too if you want to help spread the word.
+
 ## Disclaimer
 
 This is an **unofficial, community-run** page. It is not affiliated with Codeforces or the Leetify development team — just a resource to help more competitive programmers find a tool that might make their practice smoother.
