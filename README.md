@@ -68,6 +68,10 @@ If Leetify made your Codeforces practice smoother, consider starring ⭐ this re
 
 This is an **unofficial, community-run** page. It is not affiliated with Codeforces or the Leetify development team — just a resource to help more competitive programmers find a tool that might make their practice smoother.
 
+## Blog by the creator of Leetify
+https://codeforces.com/blog/entry/154228
+-Deependra
+
 ## License
 
 MIT — this README/repo content is free to reuse or adapt.
