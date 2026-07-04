@@ -62,7 +62,7 @@ This repo is just a signal-boost, so contributions are light-touch:
 
 ## Credits
  
-Leetify was built by **Deependra**. You can follow the project's progress and announcements on their Codeforces blog:
+Leetify was built by **Ayush**. You can follow the project's progress and announcements on their Codeforces blog:
  
 - [Leetify v0.1.2 — A Different Take on the Codeforces Problem Solving Experience](https://codeforces.com/blog/entry/154228) by Deependra
 
